@@ -1,0 +1,18 @@
+[
+  {
+    "orderId": "ORD-001",
+    "city": "6th of October",
+    "paymentType": "COD",
+    "productType": "fragile",
+    "weight": 2,
+    "deadline": "2025-08-12T13:30:00.000Z"
+  },
+  {
+    "orderId": "ORD001",
+    "city": "6th of October",
+    "paymentType": "COD",
+    "productType": "fragile",
+    "weight": 2,
+    "deadline": "2025-08-12T13:30:00.000Z"
+  }
+]

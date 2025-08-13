@@ -1,0 +1,27 @@
+{
+  "assignments": [],
+  "unassigned": [
+    {
+      "orderId": "ORD-001",
+      "reason": "no_supported_courier_or_capacity"
+    },
+    {
+      "orderId": "ORD001",
+      "reason": "no_supported_courier_or_capacity"
+    }
+  ],
+  "capacityUsage": [
+    {
+      "courierId": "Bosta",
+      "totalWeight": 0
+    },
+    {
+      "courierId": "Weevo",
+      "totalWeight": 0
+    },
+    {
+      "courierId": "SafeShip",
+      "totalWeight": 0
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "eng.dina",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "clean": "node index.js clean",
+    "plan": "node index.js plan",
+    "reconcile": "node index.js reconcile"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "csv-parser": "^3.2.0",
+    "dayjs": "^1.11.13",
+    "lodash": "^4.17.21",
+    "string-similarity": "^4.0.4"
+  }
+}
